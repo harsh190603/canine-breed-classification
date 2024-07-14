@@ -9,3 +9,5 @@ train.zip - the training set, you are provided the breed for these dogs;
 test.zip - the test set, you must predict the probability of each breed for each image; 
 sample_submission.csv - a sample submission file in the correct format; 
 labels.csv - the breeds for the images in the train set
+
+This repository contains code for a machine learning project that uses a Convolutional Neural Network (CNN) to classify images of dogs into their respective breeds. The model is trained on the Dog Breed Identification dataset from Kaggle, which includes 120 different breeds.
