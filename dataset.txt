@@ -1,5 +1,2 @@
-kaggle competitions download -c dog-breed-identification
-
-
-or "Download All" from
+Select "Download All" from
 https://www.kaggle.com/competitions/dog-breed-identification/data?select=test
