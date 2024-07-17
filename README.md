@@ -1,7 +1,7 @@
 # canine-breed-classification
 Identify the breed of a canine (dog) from its picture
 
-Dataset Description
+Dataset Description :-
 We have been provided with a training set and a test set of images of dogs. Each image has a filename that is its unique id. The dataset comprises 120 breeds of dogs. The goal is to create a classifier capable of determining a dog's breed from a photo.
 
 File descriptions :-
