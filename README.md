@@ -1,4 +1,4 @@
-# dog-breed-classification
+# canine-breed-classification
 Identify the breed of a dog from its picture
 
 Dataset Description
